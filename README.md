@@ -1,6 +1,6 @@
 
 
-<img src="https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/285665635_2881457058667669_2683594136082587390_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZvlLIr3CIjEAX-MDp8n&_nc_ht=scontent.fdac144-1.fna&oh=00_AT_O0hdtRkwT0Gu-1coxZ5wmZnh8d0rf2HnJzj_KN7BCGQ&oe=62AE12FF" text-align= "center" width="300" height="300"/>
+<img src="https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/285665635_2881457058667669_2683594136082587390_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZvlLIr3CIjEAX-MDp8n&_nc_ht=scontent.fdac144-1.fna&oh=00_AT_O0hdtRkwT0Gu-1coxZ5wmZnh8d0rf2HnJzj_KN7BCGQ&oe=62AE12FF" align= "center" width="300" height="300"/>
 
 
 <h1 align="center">Hi 👋, I'm Tanbir Hasan Mohan</h1>
