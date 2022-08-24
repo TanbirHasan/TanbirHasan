@@ -1,8 +1,8 @@
 
-<p align="center">
-<img  src="https://i.ibb.co/VmwhsqR/Pic.jpg"  width="300" height="300"/>
+<div align="center">
+<img src="https://i.ibb.co/VmwhsqR/Pic.jpg"  width="300" height="300"/>
 
-</p>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Tanbir Hasan Mohan</h1>
