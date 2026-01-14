@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/n79g776/profilepic2.jpg" width="360" height="300"/>
+<!-- <img src="https://i.ibb.co/n79g776/profilepic2.jpg" width="360" height="300"/> -->
 
 # Hi 👋, I'm Tanbir Hasan Mohan
 
