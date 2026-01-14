@@ -1,111 +1,96 @@
 <div align="center">
-  <img src="https://i.ibb.co/n79g776/profilepic2.jpg" width="360" height="300" />
+<img src="https://i.ibb.co/n79g776/profilepic2.jpg" width="360" height="300"/>
+
+# Hi 👋, I'm Tanbir Hasan Mohan
+
+### Frontend-Focused Full Stack Developer | 3+ Years Experience
+
+[![Profile views](https://komarev.com/ghpvc/?username=tanbirhasan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tanbirhasan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tanbirmohan?logo=twitter&style=for-the-badge)](https://twitter.com/tanbirmohan)
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Tanbir Hasan Mohan</h1>
-<h3 align="center">
-Frontend-Focused Full Stack Developer | React • Next.js • TypeScript
-</h3>
-
-<p align="center">
-I build scalable, high-performance web applications with a strong focus on UI/UX, modern frontend architecture, and clean code.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanbirhasan&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanbirhasan&theme=flat&margin-w=15" />
-  </a>
-</p>
-
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 **Frontend-focused Full Stack Developer** with **3+ years** of experience  
-- ⚛️ Specialized in **React & Next.js** (App Router, SSR, CSR, SEO)
-- 🎨 Strong UI skills with **Tailwind, Shadcn UI, MUI, Ant Design**
-- 🧠 Experienced in **TypeScript-first development**
-- 🔌 Comfortable building APIs & data layers using **Node, Prisma, MongoDB**
-- 🚀 Passionate about performance, clean architecture & DX
-- 📍 Based in **Bangladesh**
+I'm a passionate software engineer from Bangladesh, specializing in building modern, scalable web applications with a focus on exceptional user experiences. With over 3 years of professional experience, I excel at crafting responsive frontends while maintaining full-stack capabilities.
 
-📄 **Resume:**  
-👉 https://drive.google.com/file/d/18Qg-5jU23UnMMYoqvZG_-aG9c73Oyibd/view
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/tanbir-hasan-mohan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/tanbirmohan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://stackoverflow.com/users/16520010" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
-</a>
-<a href="https://fb.com/unreal.tanbir" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-</p>
+- 🔭 Currently working on full-stack applications using **Next.js** and **TypeScript**
+- 🌱 Continuously improving my skills in **React ecosystem** and **modern web technologies**
+- 💼 Experienced in delivering production-ready applications for diverse clients
+- 📄 [View My Resume](https://drive.google.com/file/d/18Qg-5jU23UnMMYoqvZG_-aG9c73Oyibd/view?usp=sharing)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🎨 UI & Styling
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-<img src="https://ui.shadcn.com/favicon.ico" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</p>
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧩 Backend & APIs
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"/>
-</p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🗄️ Databases
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbirhasan&show_icons=true&locale=en&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanbirhasan&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbirhasan&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanbirhasan&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanbirhasan&theme=radical&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanbirhasan&show_icons=true&locale=en" />
+<a href="https://linkedin.com/in/tanbir-hasan-mohan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/tanbirmohan" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://stackoverflow.com/users/16520010" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+<a href="https://fb.com/unreal.tanbir" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanbirhasan" />
-</p>
+---
+
+<div align="center">
+  
+### 💡 "Building digital experiences that make a difference"
+
+</div>
